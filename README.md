@@ -1,2 +1,2 @@
 ## ToDo
-Vanilla Js Todolist
+HTML CSS And JavaScript Todolist
